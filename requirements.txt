@@ -1,0 +1,1 @@
+# No dependencies: the capture app uses only the Python standard library.
